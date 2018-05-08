@@ -6,7 +6,7 @@ import math
 client = discord.Client()
 
 # Constant
-DISCORD_TOKEN = "NDQzMjA0ODA0NDcxNDIyOTk3.DdJ-NA.fZf_E2cjt4GrNC7bWVkYLRIoii4"
+DISCORD_TOKEN = "NDQzMjA0ODA0NDcxNDIyOTk3.DdKHFw.QWnr3Q_ymUB_xMPEiWzUStWVU3I"
 
 FORTNITE_API_KEY = 'ea5ffa46-76a0-426c-a2e8-8b9c6084ee96'
 
