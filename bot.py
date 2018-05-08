@@ -38,7 +38,7 @@ HACKEUR_E = 100
 def get_ratio(username):
     print(username)
     link = 'https://api.fortnitetracker.com/v1/profile/pc/' + username
-    response = requests.get(link, headers={'TRN-Api-Key': FORTNITE_API_KEY})
+    response = requests.get(link, headers={'TRN-Api-Key': 69bfe19f-e636-4ebb-ac3b-4d806a19bab5})
     if response.status_code == 200:
         collection = response.json()
         if 'error' in collection:
